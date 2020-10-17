@@ -62,5 +62,7 @@ void loop() {
     digitalWrite(LMP1, LOW);  
     delay(500);
   }
+  
+  
 
 }
